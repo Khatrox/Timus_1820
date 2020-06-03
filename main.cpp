@@ -12,12 +12,12 @@ int main()
 
     if (N > k)
     {
-        std::cout << ceil((static_cast<double>(N) / k) * 2);
+        std::cout << ceil(N / (k * 0.5)) << '\n';
     }
     else
     {
         std::cout << "2" << '\n';
     }
-    
+
     return 0;
 }
