@@ -1,0 +1,3 @@
+C:/Users/xMellox/CLionProjects/Timus_1820/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/xMellox/CLionProjects/Timus_1820/cmake-build-debug/CMakeFiles/Timus_1820.dir
+C:/Users/xMellox/CLionProjects/Timus_1820/cmake-build-debug/CMakeFiles/edit_cache.dir
